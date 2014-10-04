@@ -1,0 +1,5 @@
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\App         While2\App         While2\bin\Debug\App         While2.exe.config
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\App         While2\App         While2\bin\Debug\App         While2.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\App         While2\App         While2\bin\Debug\App         While2.pdb
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\App         While2\App         While2\obj\Debug\App         While2.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\App         While2\App         While2\obj\Debug\App         While2.pdb
